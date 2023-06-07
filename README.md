@@ -1,2 +1,2 @@
 # openmmLab
-商汤的联系
+openmmLab练习
